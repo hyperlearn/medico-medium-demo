@@ -14,7 +14,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 // Basic hello World Route
 app.get('/', (req, res) => {
-  return res.send({ message: "Hellow World!"});
+  return res.send({ message: "Hello World!"});
 }) 
 
 // Here we start the server on the desired port
