@@ -1,0 +1,8 @@
+{
+  "name": "medico-medium-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hyperlearn/medico-medium-demo.git",
+  "author": "ads <abhijeet3192@gmail.com>",
+  "license": "MIT"
+}
